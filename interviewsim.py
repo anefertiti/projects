@@ -26,8 +26,6 @@ if test <8:
     print("Too low. You've arrived at the location anyways.")
 elif test==8: 
     print("Right on the nose! He gives you a $5 bill as you exit")
-else: 
-    print("Wow that wasn't even in the ballpark. You've arrived at the location anyways")
 
 print("You arrive to the interview on time and meet your employer. They give you a warm welcome")
 print("Interviewer: Good afternoon, "+ begin)
